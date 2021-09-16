@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/yulinzhihou/gs_nginx:v2.0.1
+FROM registry.cn-hangzhou.aliyuncs.com/yulinzhihou/gs_nginx:v2.0.3
 
 # FROM nginx:1.21.0-alpine
 
