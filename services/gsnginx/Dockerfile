@@ -11,4 +11,4 @@ FROM registry.cn-hangzhou.aliyuncs.com/yulinzhihou/gs_nginx:v2.0.1
 
 # RUN sed -i "s/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g" /etc/apk/repositories;
 
-# WORKDIR /home/www
+# WORKDIR /www
